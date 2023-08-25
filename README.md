@@ -12,6 +12,9 @@ My areas of interest in programming are:
 
 I am also an avid technical writer. I run my own blog, Coding Joy where I explore solutions to the most puzzling problems in recreational mathematics as well as patterns, sequences and mundane life.
 
+![image](https://github.com/AmruhaAhmed/AmruhaAhmed/assets/98407069/277afc1e-adeb-4361-a8ab-d0db4759d7b8)
+
+
 Here is a link to my blog:  https://codingjoy.netlify.app/
 
 LinkedIn profile: www.linkedin.com/in/amruha-ahmed
