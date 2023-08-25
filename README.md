@@ -1,6 +1,6 @@
 
 Hello There!
-This is Amruha Ahmed.I am currently a 2nd year Computer Science Engineering student.
+This is Amruha Ahmed.I am a 2nd year Computer Science Engineering student.
 
 My areas of interest in programming are:
 
